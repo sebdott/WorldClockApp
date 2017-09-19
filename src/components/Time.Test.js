@@ -16,7 +16,6 @@ import { Provider } from 'react-redux'
 describe('Time via Enzyme', () => {
   it('renders time h2', (done) => {
     
-   
   const mockStore = configureMockStore(middleware);
     
     const props = {
