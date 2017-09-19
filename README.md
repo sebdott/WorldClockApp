@@ -21,7 +21,7 @@ Screen 1 - This screen will show a list of cities to add into the main clock lis
 ![alt text](https://raw.githubusercontent.com/codedsphere/WorldClockApp/master/src/media/images/UI-01.JPG)
 
 Screen 2- This screen will show a list of cities and its clock timing and date that have been added by the user.
-![alt text](https://raw.githubusercontent.com/codedsphere/WorldClockApp/master/src/media/images/UI-02JPG)
+![alt text](https://raw.githubusercontent.com/codedsphere/WorldClockApp/master/src/media/images/UI-02.JPG)
 
 **Installation Instruction**
 
