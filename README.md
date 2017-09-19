@@ -22,10 +22,11 @@ Once completed installing the required modules, use the below command to bring u
 npm start
 ```
 
-You can use Yarn as to replace NPM for ssmoother retrieval
+You can use Yarn as to replace NPM for smoother retrieval
 ```
 yarn install
 ```
+This command is the start the development machine
 ```
 yarn start
 ```
