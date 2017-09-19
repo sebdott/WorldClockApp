@@ -1,5 +1,5 @@
 # WorldClockApp
- A React World Clock App
+ **A React World Clock App**
  
  This is an Web Application created using ReactJS and Redux to have a list of Clock Timing base on different Cities all over the World
 
